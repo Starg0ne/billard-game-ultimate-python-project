@@ -10,3 +10,6 @@ Comment jouer :
   - Trouvez vous un ami avec qui jouer
   - Choisissez vos surnoms
   - Amusez vous !!!
+
+
+Vidéo de présentation du projet : https://tube-sciences-technologies.apps.education.fr/w/sRnvoVa71f7es3j7vVPGrd
