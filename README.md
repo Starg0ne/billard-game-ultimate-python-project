@@ -4,7 +4,7 @@
 
 ## Installation
 
-Installez les dépendances avant de lancer le jeu :
+Assurez-vous d'avoir installés les dépendances dans requirement.txt pour lancer le jeu.
 
 ```bash
 pip install -r requirements.txt
